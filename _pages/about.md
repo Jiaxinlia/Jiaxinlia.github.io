@@ -14,8 +14,5 @@ Academic Background
 
 - 2024 - present &emsp;Zhejiang University - Westlake University
 
-    <center>Computer Science and Technology<center/>
-
 - 2020 - 2024 &emsp; &emsp;  Harbin Institute of Technology
 
-<center>Mechanical Design, Manufacturing, and Automation <center/>
