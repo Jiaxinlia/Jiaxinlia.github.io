@@ -12,7 +12,7 @@ I am a PhD student advised by [Tailin Wu](http://tailin.org) in AI direction at 
 Academic Background
 ======
 
-- 2024 - present &emsp;Zhejiang University - Westlake University
+* 2024 - present &emsp;Zhejiang University - Westlake University
 
-- 2020 - 2024 &emsp; &emsp;  Harbin Institute of Technology
+* 2020 - 2024 &emsp; &emsp;  Harbin Institute of Technology
 
